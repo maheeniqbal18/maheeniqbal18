@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Studying UX at ASU and designing seamless interactions by the day, and enjoying sitcoms by night.**
+
