@@ -32,8 +32,10 @@ In addition to creating user-centric products, I am also currently developing my
 ![infographic representing UX](infographic.png) -->
 
 
-| :computer: [My Portfolio](https://readymag.website/u2038416504/4934310/)
+ :computer: [My Portfolio](https://readymag.website/u2038416504/4934310/)
 
 :woman: [Linkedin](https://www.linkedin.com/in/maheen-iqbal/)
 
-:email: <maheeniqbal170@gmail.com> | ![infographic representing UX](infographic.png) |
+:email: <maheeniqbal170@gmail.com> 
+
+![infographic representing UX](infographic.png) |
